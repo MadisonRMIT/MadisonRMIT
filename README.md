@@ -9,6 +9,6 @@ I'm in the process of brushing up on languages such as HTML, CSS & PHP since I'm
 I recently adopted a cat named Oolong, who is just the most loving kitty on Earth - she is a black short hair, with a turqoise collar to match her eyes. :black_cat:
 
 
-My pronouns are she/her, and I look forward to discovering the nooks and crannies of the great big field that is Information Technology! ✨
+My pronouns are she/her, and I look forward to discovering the nooks and crannies of the great big field that is Information Technology ✨
 
 Hello, World!
